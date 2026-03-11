@@ -10,7 +10,7 @@
 .<https://github.com/celeherzog-pixel>
 
 .[Zuñiga Pilar]
-.<https://github.com/pilarzuniga-lgtm>
+.<https://github.com/pilarzuniga-lgtm/modulo-1>
 
 .[Huenchuguala Joaquin]
 .<https://github.com/JoaquinHuenchuguala>
