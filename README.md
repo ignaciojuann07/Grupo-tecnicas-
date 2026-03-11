@@ -16,7 +16,7 @@
 .<https://github.com/JoaquinHuenchuguala>
 
 .[Euillades Santiago]
-<https://github.com/santiagoeuillades>
+<https://github.com/santiagoeuillades/modulo1>
 
 
 | Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp |
