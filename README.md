@@ -7,7 +7,7 @@
 .<https://github.com/ignaciojuann07?tab=repositories>
 
 .[Herzog Celeste]
-.<https://github.com/celeherzog-pixel>
+.<https://github.com/celeherzog-pixel/Modulo1.git>
 
 .[Zuñiga Pilar]
 .<https://github.com/pilarzuniga-lgtm/modulo-1>
