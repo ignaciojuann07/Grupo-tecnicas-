@@ -4,7 +4,7 @@
 ## Grupo: gorditos siuu
 
 .[Juan Gonzalez Ignacio]
-.<https://github.com/ignaciojuann07>
+.<https://github.com/ignaciojuann07?tab=repositories>
 
 .[Herzog Celeste]
 .<https://github.com/celeherzog-pixel>
