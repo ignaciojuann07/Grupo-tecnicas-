@@ -1,6 +1,7 @@
 #Entrega Modulo 1
 
 | Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp |
+|---|---|---|---|
 | Zuñiga | Pilar | pilizunigapizolatto@gmail.com | 2615669790 |
 | Juan González | Ignacio | ignaciojuann07@gmail.com | 2615337451 |
 | Euillades | Santiago | seuilladess@gmail.com | 2612517016 |
