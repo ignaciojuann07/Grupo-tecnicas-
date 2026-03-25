@@ -2,7 +2,9 @@
 
 # TyHM_2026
 ## Grupo: gorditos siuu!
-[WhatsApp Image 2026-03-25 at 15 33 18](https://github.com/user-attachments/assets/00305f22-bd61-4f0e-a8a0-7561d4889fd9)
+(https://github.com/user-attachments/assets/44717238-a307-4144-a412-8c12166892cc)
+
+
 
 
 .[Juan Gonzalez Ignacio]
