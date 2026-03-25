@@ -1,9 +1,11 @@
 #Entrega Modulo 1
 
 # TyHM_2026
-## Grupo: gorditos siuu!!
+## Grupo: gorditos siuu!!!
+[WhatsApp Image 2026-03-25 at 15 33 18](https://github.com/user-attachments/assets/7fc3141e-24b1-4aa0-b471-2c7d42137d4f)
 
-<img [WhatsApp Image 2026-03-25 at 15 33 18](https://github.com/user-attachments/assets/142dbcd0-ecf7-4305-8d0d-a9d323a7ab63) >
+
+
 ##  Entrega Módulo 1
 
 *Ejercicio 1:* Cómo crear, modificar y hacer el archivo README.md
@@ -45,11 +47,17 @@
 | Juan González | Ignacio | ignaciojuann07@gmail.com | 2615337451 |
 | Euillades | Santiago | seuilladess@gmail.com | 2612517016 |
 | Herzog Bianchi | Celeste | celeeher@gmail.com | 2616671314 |
-| Huenchuguala | Joaquin | Joaquinberriosh3@gmail.com | 2617021341 |
+| Huenchuguala | Joaquin | Joaquinberriosh3@gmail.com | 2617021341 |[Juan Gonzalez Ignacio CV.pdf](https://github.com/user-attachments/files/26254432/Juan.Gonzalez.Ignacio.CV.pdf)
+
 
 ## Entrega Actividad 5
 |Nombre|LinkCV|
 |:---|:--:|
+|Juan Gonzalez Ignacio| [Juan Gonzalez Ignacio CV.pdf](https://github.com/user-attachments/files/26254432/Juan.Gonzalez.Ignacio.CV.pdf) |
+
+
+
+
 
 
 
