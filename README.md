@@ -54,6 +54,8 @@
 |Nombre|LinkCV|
 |:---|:--:|
 |Juan Gonzalez Ignacio| [Juan Gonzalez Ignacio CV.pdf](https://github.com/user-attachments/files/26254432/Juan.Gonzalez.Ignacio.CV.pdf) |
+|Euillades Santiago| [Santiago Euillades CV.pdf](https://github.com/user-attachments/files/26254470/Santiago.Euillades.CV.pdf) |
+
 
 
 
