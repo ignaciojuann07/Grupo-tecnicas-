@@ -1,7 +1,9 @@
 #Entrega Modulo 1
 
 # TyHM_2026
-## Grupo: gorditos siuu
+## Grupo: gorditos siuu!
+[WhatsApp Image 2026-03-25 at 15 33 18](https://github.com/user-attachments/assets/00305f22-bd61-4f0e-a8a0-7561d4889fd9)
+
 
 .[Juan Gonzalez Ignacio]
 .<https://github.com/ignaciojuann07?tab=repositories>
