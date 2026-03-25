@@ -1,8 +1,24 @@
 #Entrega Modulo 1
 
 # TyHM_2026
-## Grupo: gorditos siuu!
-(https://github.com/user-attachments/assets/44717238-a307-4144-a412-8c12166892cc)
+## Grupo: gorditos siuu!!
+
+<img [WhatsApp Image 2026-03-25 at 15 33 18](https://github.com/user-attachments/assets/142dbcd0-ecf7-4305-8d0d-a9d323a7ab63) >
+##  Entrega Módulo 1
+
+*Ejercicio 1:* Cómo crear, modificar y hacer el archivo README.md
+
+*Ejercicio 2:* Creación de un archivo html en forma manual
+
+*Ejercicio 3:* Crear un archivo LATex en <https://overleaf.com>
+
+*Ejercicio 4:* Creación de notebooks
+
+*Ejercicio 5:* Creación de un CV en LATex
+
+*Ejercicio 6:* Creación de un archivo con metadatos en el entorno R
+
+---
 
 
 
