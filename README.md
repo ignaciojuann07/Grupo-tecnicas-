@@ -40,7 +40,7 @@
 .[Euillades Santiago]
 <https://github.com/santiagoeuillades/modulo1>
 
-## ENTREGA MÓDULO 2 
+## ENTREGA MÓDULO 1
 | Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp |
 |---|---|---|---|
 | Zuñiga | Pilar | pilizunigapizolatto@gmail.com | 2615669790 |
@@ -49,6 +49,23 @@
 | Herzog Bianchi | Celeste | celeeher@gmail.com | 2616671314 |
 | Huenchuguala | Joaquin | Joaquinberriosh3@gmail.com | 2617021341 |[Juan Gonzalez Ignacio CV.pdf](https://github.com/user-attachments/files/26254432/Juan.Gonzalez.Ignacio.CV.pdf)
 
+ ## Entrega Actividad 2
+ <HTML>
+  <head>
+    <h1>Mi primer página web</h1>
+  </head>
+  <body>
+    Esto es el cuerpo del texto.
+    <p>Esto es un párrafo</p>
+
+    <ul>
+
+      <li>primero</li>
+      <li>segundo</li>
+      <li>tercero</li>
+    </ul>
+  </body>
+</HTML>
 
 ## Entrega Actividad 5
 |Nombre|LinkCV|
