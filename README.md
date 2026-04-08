@@ -50,7 +50,8 @@
 | Huenchuguala | Joaquin | Joaquinberriosh3@gmail.com | 2617021341 |[Juan Gonzalez Ignacio CV.pdf](https://github.com/user-attachments/files/26254432/Juan.Gonzalez.Ignacio.CV.pdf)
 
  ## Entrega Actividad 2
- <HTML>
+ 
+<HTML>
   <head>
     <h1>Mi primer página web</h1>
   </head>
@@ -60,12 +61,14 @@
 
     <ul>
 
-      <li>primero</li>
-      <li>segundo</li>
-      <li>tercero</li>
+      <li>primera</li>
+      <li>segunda</li>
+      <li>tercera</li>
     </ul>
   </body>
 </HTML>
+ 
+
 
 ## Entrega Actividad 5
 |Nombre|LinkCV|
