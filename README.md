@@ -53,7 +53,8 @@
  
 
 
-<!DOCTYPE html>
+
+```<!DOCTYPE html>
 <html>
 <head>
     <h1>Mi primer página web</h1>
@@ -69,7 +70,7 @@
     </ul>
 </body>
 </html>
-
+```
 ---
 
 ## Entrega Actividad 5
