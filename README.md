@@ -50,7 +50,7 @@
 | Huenchuguala | Joaquin | Joaquinberriosh3@gmail.com | 2617021341 | .<https://github.com/JoaquinHuenchuguala>|
 
 ---
- ## Entrega Actividad 2
+ ## Modelo de armado de una pagina Web:
  
 
 
@@ -74,14 +74,14 @@
 ```
 ---
 
-## Entrega Actividad 5
+## Entrega CV
 |Nombre|LinkCV|
 |:---|:--:|
 |Juan Gonzalez Ignacio| [Juan Gonzalez Ignacio CV.pdf](https://github.com/user-attachments/files/26254432/Juan.Gonzalez.Ignacio.CV.pdf) |
 |Euillades Santiago| [Santiago Euillades CV.pdf](https://github.com/user-attachments/files/26254470/Santiago.Euillades.CV.pdf) |
 
 --- 
-## Guia de atajos de Markdown 
+## Documento de Google: Guia de atajos de Markdown
 https://docs.google.com/document/d/1uIzL1b-DDg-_DS8SAld2trEigPnCgzYlRpN58tsg0sc/edit?tab=t.0
 
 
@@ -89,10 +89,15 @@ https://docs.google.com/document/d/1uIzL1b-DDg-_DS8SAld2trEigPnCgzYlRpN58tsg0sc/
 
 
 ---
-## Archivo Colab 
+## Colab 
 
 
 https://colab.research.google.com/drive/1i41ID4tSI-cdDAIvjuA3eG-Hv_LgSpeR?usp=sharing
+
+## Entrega Modulo 1
+
+
+[ENTREGA MODULO 1 GORDITOS SIUU.pdf](https://github.com/user-attachments/files/26572658/ENTREGA.MODULO.1.GORDITOS.SIUU.pdf)
 
 
 
