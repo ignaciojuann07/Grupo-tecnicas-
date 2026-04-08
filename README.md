@@ -79,6 +79,10 @@
 |Juan Gonzalez Ignacio| [Juan Gonzalez Ignacio CV.pdf](https://github.com/user-attachments/files/26254432/Juan.Gonzalez.Ignacio.CV.pdf) |
 |Euillades Santiago| [Santiago Euillades CV.pdf](https://github.com/user-attachments/files/26254470/Santiago.Euillades.CV.pdf) |
 
+--- 
+## Guia de atajos de Markdown 
+https://docs.google.com/document/d/1uIzL1b-DDg-_DS8SAld2trEigPnCgzYlRpN58tsg0sc/edit?tab=t.0
+
 
 
 
