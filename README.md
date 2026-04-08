@@ -48,7 +48,7 @@
 | Euillades | Santiago | seuilladess@gmail.com | 2612517016 |
 | Herzog Bianchi | Celeste | celeeher@gmail.com | 2616671314 |
 | Huenchuguala | Joaquin | Joaquinberriosh3@gmail.com | 2617021341 |[Juan Gonzalez Ignacio CV.pdf](https://github.com/user-attachments/files/26254432/Juan.Gonzalez.Ignacio.CV.pdf)
-
+---
  ## Entrega Actividad 2
  
 <HTML>
@@ -68,13 +68,21 @@
   </body>
 </HTML>
  
-
+---
 
 ## Entrega Actividad 5
 |Nombre|LinkCV|
 |:---|:--:|
 |Juan Gonzalez Ignacio| [Juan Gonzalez Ignacio CV.pdf](https://github.com/user-attachments/files/26254432/Juan.Gonzalez.Ignacio.CV.pdf) |
 |Euillades Santiago| [Santiago Euillades CV.pdf](https://github.com/user-attachments/files/26254470/Santiago.Euillades.CV.pdf) |
+
+
+
+
+
+---
+##Archivo Colab 
+https://colab.research.google.com/drive/1i41ID4tSI-cdDAIvjuA3eG-Hv_LgSpeR?usp=sharing
 
 
 
