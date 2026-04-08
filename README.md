@@ -2,9 +2,9 @@
 
 # TyHM_2026
 ## Grupo: gorditos siuu!!!
-[WhatsApp Image 2026-03-25 at 15 33 18](https://github.com/user-attachments/assets/7fc3141e-24b1-4aa0-b471-2c7d42137d4f)
 
-
+(https://github.com/user-attachments/assets/7fc3141e-24b1-4aa0-b471-2c7d42137d4f)
+<img width="1456" height="1204" alt="gorditos siu" src="https://github.com/user-attachments/assets/8499c976-09cc-4e61-aeaa-d640ea5dc556" />
 
 ##  Entrega Módulo 1
 
