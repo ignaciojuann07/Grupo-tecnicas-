@@ -82,6 +82,8 @@
 
 ---
 ##Archivo Colab 
+
+
 https://colab.research.google.com/drive/1i41ID4tSI-cdDAIvjuA3eG-Hv_LgSpeR?usp=sharing
 
 
