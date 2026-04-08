@@ -3,7 +3,7 @@
 # TyHM_2026
 ## Grupo: gorditos siuu!!!
 
-(https://github.com/user-attachments/assets/7fc3141e-24b1-4aa0-b471-2c7d42137d4f)
+
 <img width="1456" height="1204" alt="gorditos siu" src="https://github.com/user-attachments/assets/8499c976-09cc-4e61-aeaa-d640ea5dc556" />
 
 ##  Entrega Módulo 1
@@ -48,7 +48,7 @@
 | Euillades | Santiago | seuilladess@gmail.com | 2612517016 | <https://github.com/santiagoeuillades/modulo1>|
 | Herzog Bianchi | Celeste | celeeher@gmail.com | 2616671314 | .<https://github.com/celeherzog-pixel/Modulo1.git>|
 | Huenchuguala | Joaquin | Joaquinberriosh3@gmail.com | 2617021341 | .<https://github.com/JoaquinHuenchuguala>|
-[Juan Gonzalez Ignacio CV.pdf](https://github.com/user-attachments/files/26254432/Juan.Gonzalez.Ignacio.CV.pdf)
+
 ---
  ## Entrega Actividad 2
  
