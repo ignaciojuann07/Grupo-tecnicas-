@@ -78,7 +78,11 @@
 |Nombre|LinkCV|
 |:---|:--:|
 |Juan Gonzalez Ignacio| [Juan Gonzalez Ignacio CV.pdf](https://github.com/user-attachments/files/26254432/Juan.Gonzalez.Ignacio.CV.pdf) |
+|Huenchuguala Joaquin|  [huenchugualacv.pdf](https://github.com/user-attachments/files/26579569/huenchugualacv.pdf) |
 |Euillades Santiago| [Santiago Euillades CV.pdf](https://github.com/user-attachments/files/26254470/Santiago.Euillades.CV.pdf) |
+|Herzog Celeste| [herzogcv.pdf](https://github.com/user-attachments/files/26579603/herzogcv.pdf) |
+|Zuñiga Pilar| [zuñigacv.pdf](https://github.com/user-attachments/files/26579581/zunigacv.pdf) |
+
 
 --- 
 ## Documento de Google: Guia de atajos de Markdown
