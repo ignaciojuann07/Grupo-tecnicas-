@@ -51,22 +51,19 @@
 ---
  ## Entrega Actividad 2
  
-<HTML>
-  <head>
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi primer página web</title>
+</head>
+<body>
     <h1>Mi primer página web</h1>
-  </head>
-  <body>
-    Esto es el cuerpo del texto.
     <p>Esto es un párrafo</p>
+</body>
+</html>
 
-    <ul>
-
-      <li>primera</li>
-      <li>segunda</li>
-      <li>tercera</li>
-    </ul>
-  </body>
-</HTML>
  
 ---
 
