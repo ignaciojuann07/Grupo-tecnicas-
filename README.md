@@ -112,6 +112,7 @@ Modulo 2 en PDF: [gorditos siu modulo2.pdf](https://github.com/user-attachments/
 
 Actividad elegida en PDF: [la penitencia de Newton gorditos siu.pdf](https://github.com/user-attachments/files/27205954/la.penitencia.de.Newton.gorditos.siu.pdf)
 
+Modulo 2 .zip: [rstudio-export.zip](https://github.com/user-attachments/files/28074341/rstudio-export.zip)
 
 
 
