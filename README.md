@@ -35,7 +35,6 @@
 .<https://github.com/pilarzuniga-lgtm/modulo-1>
 
 .[Huenchuguala Joaquin]
-.<https://github.com/JoaquinHuenchuguala>
 .<https://github.com/JoaquinHuenchuguala/modulo-1>
 
 .[Euillades Santiago]
@@ -48,7 +47,7 @@
 | Juan González | Ignacio | ignaciojuann07@gmail.com | 2615337451 | .<https://github.com/ignaciojuann07?tab=repositories> |
 | Euillades | Santiago | seuilladess@gmail.com | 2612517016 | <https://github.com/santiagoeuillades/modulo1>|
 | Herzog Bianchi | Celeste | celeeher@gmail.com | 2616671314 | .<https://github.com/celeherzog-pixel/Modulo1.git>|
-| Huenchuguala | Joaquin | Joaquinberriosh3@gmail.com | 2617021431 | .<https://github.com/JoaquinHuenchuguala>|
+| Huenchuguala | Joaquin | Joaquinberriosh3@gmail.com | 2617021431 | .<https://github.com/JoaquinHuenchuguala/modulo-1>|
 
 ---
  ## Modelo de armado de una pagina Web:
