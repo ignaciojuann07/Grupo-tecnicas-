@@ -36,6 +36,7 @@
 
 .[Huenchuguala Joaquin]
 .<https://github.com/JoaquinHuenchuguala>
+.<https://github.com/JoaquinHuenchuguala/modulo-1>
 
 .[Euillades Santiago]
 <https://github.com/santiagoeuillades/modulo1>
